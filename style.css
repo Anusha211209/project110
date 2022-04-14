@@ -1,0 +1,29 @@
+body
+{
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(39, 172, 161);
+}
+.heading
+{
+    border-width: 0px;
+    font-size: 25px;
+    letter-spacing: 8px;
+    border-radius: 15px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px solid rgb(255, 255, 255);
+  width: 350px;
+  height: 300px; 
+}
+.label
+{
+    border-width: 0px;
+    font-size: 18px;
+    border-radius: 15px;
+    color: rgb(39, 172, 161);
+}
